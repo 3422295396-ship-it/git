@@ -1,0 +1,12 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vs/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "I01",
+    "name": "五条悟",
+    "sourcePage": "https://jujutsukaisen.jp/character/index_1st.php",
+    "imageUrl": "https://jujutsukaisen.jp/images/chara_detail4.png",
+    "dimensions": [
+      750,
+      1110
+    ],
+    "bytes": 45997,
+    "cropPixels": [
+      255,
+      24,
+      495,
+      133
+    ],
+    "guessFile": "assets/images/I01_guess.jpg",
+    "answerFile": "assets/images/I01_answer.jpg",
+    "guessSHA256": "d5e41bb0fc2515816bb687b2fff1fe290b705653f13c3ba75beb19879f89da1a",
+    "answerSHA256": "d88b23a28d19c7f38e66518e4d14fae1024bada8111290c1f63fca15ff8bb041"
+  },
+  {
+    "id": "I02",
+    "name": "灶门炭治郎",
+    "sourcePage": "https://game.kimetsu.com/hinokami/character/",
+    "imageUrl": "https://game.kimetsu.com/hinokami/assets/img/sub/character/chara1.png",
+    "dimensions": [
+      615,
+      544
+    ],
+    "bytes": 133391,
+    "cropPixels": [
+      308,
+      95,
+      485,
+      205
+    ],
+    "guessFile": "assets/images/I02_guess.jpg",
+    "answerFile": "assets/images/I02_answer.jpg",
+    "guessSHA256": "f5e024ea857704402b1ff2dbae7e40a3dd32d4a8d8ad081c3bb53f05e294d205",
+    "answerSHA256": "936ba560bd0ebea8166d9d5d52942078f77bebe2bc15e92524bf48e9bcf12c6c"
+  },
+  {
+    "id": "I03",
+    "name": "阿尼亚",
+    "sourcePage": "https://spy-family.net/tvseries/",
+    "imageUrl": "https://spy-family.net/tvseries/assets/img/top/chara_anya_1.png",
+    "dimensions": [
+      1500,
+      1240
+    ],
+    "bytes": 150685,
+    "cropPixels": [
+      610,
+      330,
+      805,
+      413
+    ],
+    "guessFile": "assets/images/I03_guess.jpg",
+    "answerFile": "assets/images/I03_answer.jpg",
+    "guessSHA256": "d1f5a0cc486e85e33222331c59550053dd118c2e23d2235c66d0c359e6dfef3d",
+    "answerSHA256": "accf4d26aa8d68b4e15e0d70027ef33b67852d78042014abc53104d9b374dc65"
+  },
+  {
+    "id": "I04",
+    "name": "漩涡鸣人",
+    "sourcePage": "https://www.tv-tokyo.co.jp/anime/naruto/sp/chara/chara_detail.html",
+    "imageUrl": "https://www.tv-tokyo.co.jp/anime/naruto/sp/images/chara/chara_01_1.png",
+    "dimensions": [
+      600,
+      700
+    ],
+    "bytes": 69840,
+    "cropPixels": [
+      238,
+      162,
+      363,
+      224
+    ],
+    "guessFile": "assets/images/I04_guess.jpg",
+    "answerFile": "assets/images/I04_answer.jpg",
+    "guessSHA256": "85453b320ba4ed54b3b8da2bfd1d12d863db566582af2cc7ac3d45980c67e369",
+    "answerSHA256": "0e81d3196028474950f37b7082e812290ec32e50d8f709ec9be86c7e229ce5a5"
+  },
+  {
+    "id": "I05",
+    "name": "胡桃",
+    "sourcePage": "https://wiki.biligame.com/ys/%E8%83%A1%E6%A1%83",
+    "imageUrl": "https://patchwiki.biligame.com/images/ys/2/27/2lajlkv4483cjv65mf5dgg701squhte.png",
+    "dimensions": [
+      750,
+      1899
+    ],
+    "bytes": 1928808,
+    "cropPixels": [
+      97,
+      279,
+      510,
+      433
+    ],
+    "guessFile": "assets/images/I05_guess.jpg",
+    "answerFile": "assets/images/I05_answer.jpg",
+    "guessSHA256": "7008bc8c2f241abcb85357cc5494e11cbf62d3cbdad1a50baeb3258c9c3cb0e3",
+    "answerSHA256": "3b01024659580fb081aab64c96c2e423562530f4c1bbd7b4e64a78aad263e09f"
+  },
+  {
+    "id": "I06",
+    "name": "雷电将军",
+    "sourcePage": "https://wiki.biligame.com/ys/%E9%9B%B7%E7%94%B5%E5%B0%86%E5%86%9B",
+    "imageUrl": "https://patchwiki.biligame.com/images/ys/1/18/37k6tkwpg0j4rp4wno3djauxmi5tcsg.png",
+    "dimensions": [
+      750,
+      1899
+    ],
+    "bytes": 1035832,
+    "cropPixels": [
+      35,
+      464,
+      646,
+      800
+    ],
+    "guessFile": "assets/images/I06_guess.jpg",
+    "answerFile": "assets/images/I06_answer.jpg",
+    "guessSHA256": "0e30c0d6066338de2ea752e01c5d8d4a4aa06a3fe1e004325897dd7a4341c4b7",
+    "answerSHA256": "c25bec2c4ba770b7124524077cd59be01288fa0d6ce2337a84c0f5ae91a5b2a0"
+  },
+  {
+    "id": "I07",
+    "name": "三月七",
+    "sourcePage": "https://wiki.biligame.com/sr/%E4%B8%89%E6%9C%88%E4%B8%83",
+    "imageUrl": "https://patchwiki.biligame.com/images/sr/e/ec/0nrtu7s6jqlq00wzcqqoyjl1doukder.png",
+    "dimensions": [
+      2048,
+      2048
+    ],
+    "bytes": 4751331,
+    "cropPixels": [
+      840,
+      748,
+      1310,
+      1060
+    ],
+    "guessFile": "assets/images/I07_guess.jpg",
+    "answerFile": "assets/images/I07_answer.jpg",
+    "guessSHA256": "661acf9125fbbfcc14a0c47f6bd358dd6c8c730b550136d29ac5c7d995003643",
+    "answerSHA256": "30027d2168ae0b6206d55e592da164e51c3ba16181d4f102218c869678425c99"
+  },
+  {
+    "id": "I08",
+    "name": "邦布",
+    "sourcePage": "https://wiki.biligame.com/zzz/%E8%89%BE%E7%B1%B3%E8%8E%89%E5%AE%89",
+    "imageUrl": "https://patchwiki.biligame.com/images/zzz/d/d3/gg90jme7ze1lg4gtul4u7tt8yder1c4.png",
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 69055,
+    "cropPixels": [
+      140,
+      27,
+      401,
+      185
+    ],
+    "guessFile": "assets/images/I08_guess.jpg",
+    "answerFile": "assets/images/I08_answer.jpg",
+    "guessSHA256": "041517408b93c900a85c88d1da2cc056683b467d3767cde9c3b3f82f531eda4a",
+    "answerSHA256": "e1ebca724f709b50b65f394b67ea876017aedd633675ff9f9c7069ae54d2d7c9"
+  },
+  {
+    "id": "I09",
+    "name": "李白",
+    "sourcePage": "https://pvp.qq.com/web201605/herodetail/131.shtml",
+    "imageUrl": "https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/131/131-bigskin-1.jpg",
+    "dimensions": [
+      1920,
+      882
+    ],
+    "bytes": 171186,
+    "cropPixels": [
+      950,
+      454,
+      1710,
+      800
+    ],
+    "guessFile": "assets/images/I09_guess.jpg",
+    "answerFile": "assets/images/I09_answer.jpg",
+    "guessSHA256": "f2e5aab51a423a959fc8e543ac485f4e25c4a2c7842c06fc7ef9d2917b66317c",
+    "answerSHA256": "2e2e1f1001d011ec816c771c3b4fa7e482249e4040d535cbfc71a628f5a06d8a"
+  },
+  {
+    "id": "I10",
+    "name": "瑶",
+    "sourcePage": "https://pvp.qq.com/web201605/herodetail/505.shtml",
+    "imageUrl": "https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/505/505-bigskin-1.jpg",
+    "dimensions": [
+      1920,
+      882
+    ],
+    "bytes": 261630,
+    "cropPixels": [
+      1020,
+      40,
+      1330,
+      185
+    ],
+    "guessFile": "assets/images/I10_guess.jpg",
+    "answerFile": "assets/images/I10_answer.jpg",
+    "guessSHA256": "04452f7194aaf622616fa29d1e15a1a6b634f26f30f487c28ac6f6fcf50eecfc",
+    "answerSHA256": "a6ee0e62ca7c84c21fa276a306a15fa62b4bc7d8f9fe8ff8c3d751faafdd2322"
+  },
+  {
+    "id": "I11",
+    "name": "红蝶",
+    "sourcePage": "https://wiki.biligame.com/dwrg/%E7%BA%A2%E8%9D%B6",
+    "imageUrl": "https://patchwiki.biligame.com/images/dwrg/4/4a/7r49607kikj290byzd5ltbah9rw64jw.png",
+    "dimensions": [
+      810,
+      1080
+    ],
+    "bytes": 654116,
+    "cropPixels": [
+      128,
+      390,
+      681,
+      686
+    ],
+    "guessFile": "assets/images/I11_guess.jpg",
+    "answerFile": "assets/images/I11_answer.jpg",
+    "guessSHA256": "48cbc9ec93c6bdb27033d512fd0b81ccee9ad63a2a7d0fcd8042e27a6bcaacd9",
+    "answerSHA256": "07209997b89d56d0e3392d29da08a49a92c3327b320207d0cf77037d1945336c"
+  },
+  {
+    "id": "I12",
+    "name": "园丁",
+    "sourcePage": "https://wiki.biligame.com/dwrg/%E5%9B%AD%E4%B8%81",
+    "imageUrl": "https://patchwiki.biligame.com/images/dwrg/2/2a/g9p48a92ukc57gp3fne3fvna22ibhdk.png",
+    "dimensions": [
+      810,
+      1080
+    ],
+    "bytes": 267172,
+    "cropPixels": [
+      257,
+      81,
+      550,
+      241
+    ],
+    "guessFile": "assets/images/I12_guess.jpg",
+    "answerFile": "assets/images/I12_answer.jpg",
+    "guessSHA256": "5cacdee595b725db494026534b3ec2791b691b9245d1698cdd66986caa0198ec",
+    "answerSHA256": "091130f70914625166336c0eb3172d69e4cc3ccb7ff63d160854dcac00161027"
+  }
+]

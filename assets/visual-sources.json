@@ -1,0 +1,1806 @@
+[
+  {
+    "key": "C001",
+    "name": "五条悟",
+    "source": "咒术回战",
+    "sourcePage": "https://jujutsukaisen.jp/character/index_1st.php",
+    "imageUrl": "https://jujutsukaisen.jp/images/chara_detail4.png",
+    "image": "assets/images/I01_answer.jpg",
+    "originalManifest": "sources.json",
+    "answerSHA256": "d88b23a28d19c7f38e66518e4d14fae1024bada8111290c1f63fca15ff8bb041"
+  },
+  {
+    "key": "C002",
+    "name": "灶门炭治郎",
+    "source": "鬼灭之刃",
+    "sourcePage": "https://game.kimetsu.com/hinokami/character/",
+    "imageUrl": "https://game.kimetsu.com/hinokami/assets/img/sub/character/chara1.png",
+    "image": "assets/images/I02_answer.jpg",
+    "originalManifest": "sources.json",
+    "answerSHA256": "936ba560bd0ebea8166d9d5d52942078f77bebe2bc15e92524bf48e9bcf12c6c"
+  },
+  {
+    "key": "C003",
+    "name": "阿尼亚",
+    "source": "间谍过家家",
+    "sourcePage": "https://spy-family.net/tvseries/",
+    "imageUrl": "https://spy-family.net/tvseries/assets/img/top/chara_anya_1.png",
+    "image": "assets/images/I03_answer.jpg",
+    "originalManifest": "sources.json",
+    "answerSHA256": "accf4d26aa8d68b4e15e0d70027ef33b67852d78042014abc53104d9b374dc65"
+  },
+  {
+    "key": "C004",
+    "name": "漩涡鸣人",
+    "source": "火影忍者",
+    "sourcePage": "https://www.tv-tokyo.co.jp/anime/naruto/sp/chara/chara_detail.html",
+    "imageUrl": "https://www.tv-tokyo.co.jp/anime/naruto/sp/images/chara/chara_01_1.png",
+    "image": "assets/images/I04_answer.jpg",
+    "originalManifest": "sources.json",
+    "answerSHA256": "0e81d3196028474950f37b7082e812290ec32e50d8f709ec9be86c7e229ce5a5"
+  },
+  {
+    "key": "C005",
+    "name": "胡桃",
+    "source": "原神",
+    "sourcePage": "https://wiki.biligame.com/ys/%E8%83%A1%E6%A1%83",
+    "imageUrl": "https://patchwiki.biligame.com/images/ys/2/27/2lajlkv4483cjv65mf5dgg701squhte.png",
+    "image": "assets/images/I05_answer.jpg",
+    "originalManifest": "sources.json",
+    "answerSHA256": "3b01024659580fb081aab64c96c2e423562530f4c1bbd7b4e64a78aad263e09f"
+  },
+  {
+    "key": "C006",
+    "name": "雷电将军",
+    "source": "原神",
+    "sourcePage": "https://wiki.biligame.com/ys/%E9%9B%B7%E7%94%B5%E5%B0%86%E5%86%9B",
+    "imageUrl": "https://patchwiki.biligame.com/images/ys/1/18/37k6tkwpg0j4rp4wno3djauxmi5tcsg.png",
+    "image": "assets/images/I06_answer.jpg",
+    "originalManifest": "sources.json",
+    "answerSHA256": "c25bec2c4ba770b7124524077cd59be01288fa0d6ce2337a84c0f5ae91a5b2a0"
+  },
+  {
+    "key": "C007",
+    "name": "三月七",
+    "source": "崩坏：星穹铁道",
+    "sourcePage": "https://wiki.biligame.com/sr/%E4%B8%89%E6%9C%88%E4%B8%83",
+    "imageUrl": "https://patchwiki.biligame.com/images/sr/e/ec/0nrtu7s6jqlq00wzcqqoyjl1doukder.png",
+    "image": "assets/images/I07_answer.jpg",
+    "originalManifest": "sources.json",
+    "answerSHA256": "30027d2168ae0b6206d55e592da164e51c3ba16181d4f102218c869678425c99"
+  },
+  {
+    "key": "C008",
+    "name": "邦布",
+    "source": "绝区零",
+    "sourcePage": "https://wiki.biligame.com/zzz/%E8%89%BE%E7%B1%B3%E8%8E%89%E5%AE%89",
+    "imageUrl": "https://patchwiki.biligame.com/images/zzz/d/d3/gg90jme7ze1lg4gtul4u7tt8yder1c4.png",
+    "image": "assets/images/I08_answer.jpg",
+    "originalManifest": "sources.json",
+    "answerSHA256": "e1ebca724f709b50b65f394b67ea876017aedd633675ff9f9c7069ae54d2d7c9"
+  },
+  {
+    "key": "C009",
+    "name": "李白",
+    "source": "王者荣耀",
+    "sourcePage": "https://pvp.qq.com/web201605/herodetail/131.shtml",
+    "imageUrl": "https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/131/131-bigskin-1.jpg",
+    "image": "assets/images/I09_answer.jpg",
+    "originalManifest": "sources.json",
+    "answerSHA256": "2e2e1f1001d011ec816c771c3b4fa7e482249e4040d535cbfc71a628f5a06d8a"
+  },
+  {
+    "key": "C010",
+    "name": "瑶",
+    "source": "王者荣耀",
+    "sourcePage": "https://pvp.qq.com/web201605/herodetail/505.shtml",
+    "imageUrl": "https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/505/505-bigskin-1.jpg",
+    "image": "assets/images/I10_answer.jpg",
+    "originalManifest": "sources.json",
+    "answerSHA256": "a6ee0e62ca7c84c21fa276a306a15fa62b4bc7d8f9fe8ff8c3d751faafdd2322"
+  },
+  {
+    "key": "C011",
+    "name": "红蝶",
+    "source": "第五人格",
+    "sourcePage": "https://wiki.biligame.com/dwrg/%E7%BA%A2%E8%9D%B6",
+    "imageUrl": "https://patchwiki.biligame.com/images/dwrg/4/4a/7r49607kikj290byzd5ltbah9rw64jw.png",
+    "image": "assets/images/I11_answer.jpg",
+    "originalManifest": "sources.json",
+    "answerSHA256": "07209997b89d56d0e3392d29da08a49a92c3327b320207d0cf77037d1945336c"
+  },
+  {
+    "key": "C012",
+    "name": "园丁",
+    "source": "第五人格",
+    "sourcePage": "https://wiki.biligame.com/dwrg/%E5%9B%AD%E4%B8%81",
+    "imageUrl": "https://patchwiki.biligame.com/images/dwrg/2/2a/g9p48a92ukc57gp3fne3fvna22ibhdk.png",
+    "image": "assets/images/I12_answer.jpg",
+    "originalManifest": "sources.json",
+    "answerSHA256": "091130f70914625166336c0eb3172d69e4cc3ccb7ff63d160854dcac00161027"
+  },
+  {
+    "key": "C013",
+    "name": "宇智波佐助",
+    "source": "火影忍者",
+    "sourcePage": "https://www.tv-tokyo.co.jp/anime/naruto/sp/chara/chara_detail.html",
+    "imageUrl": "https://www.tv-tokyo.co.jp/anime/naruto/sp/images/chara/chara_03_1.png",
+    "originalDimensions": [
+      600,
+      700
+    ],
+    "answerCropPixels": [
+      190,
+      100,
+      465,
+      695
+    ],
+    "image": "assets/characters/C013.jpg",
+    "rawSHA256": "764f98322bc14c0c1a1547fcc31fb9b5dc4cdc73bd0854e82dd6389a79983d2c",
+    "answerSHA256": "3a62cd7bc016760de6a86fba58d33a8e924719a1f729d72c6380047510acefaa"
+  },
+  {
+    "key": "C014",
+    "name": "春野樱",
+    "source": "火影忍者",
+    "sourcePage": "https://www.tv-tokyo.co.jp/anime/naruto/sp/chara/chara_detail.html",
+    "imageUrl": "https://www.tv-tokyo.co.jp/anime/naruto/sp/images/chara/chara_02_1.png",
+    "originalDimensions": [
+      600,
+      700
+    ],
+    "answerCropPixels": [
+      190,
+      100,
+      465,
+      695
+    ],
+    "image": "assets/characters/C014.jpg",
+    "rawSHA256": "51da9a6ae358d936ef6539341bd22a64a03734f778a3d02b1d2233cf8ee38caf",
+    "answerSHA256": "2a463a2dcde7b34ddc52446706c6cccc3515d1b5118248aee9dc02d3ce84b82e"
+  },
+  {
+    "key": "C015",
+    "name": "旗木卡卡西",
+    "source": "火影忍者",
+    "sourcePage": "https://www.tv-tokyo.co.jp/anime/naruto/sp/chara/chara_detail.html",
+    "imageUrl": "https://www.tv-tokyo.co.jp/anime/naruto/sp/images/chara/chara_04_1.png",
+    "originalDimensions": [
+      600,
+      700
+    ],
+    "answerCropPixels": [
+      190,
+      100,
+      465,
+      695
+    ],
+    "image": "assets/characters/C015.jpg",
+    "rawSHA256": "fc9c2b85a70849a678fea31b1773ff32216f690251522222f373ce966a152ad6",
+    "answerSHA256": "ea92c313b9e954aa9481a2362066beedb5a674625f2f67a97345dffd0e8bba2b"
+  },
+  {
+    "key": "C016",
+    "name": "日向雏田",
+    "source": "火影忍者",
+    "sourcePage": "https://www.tv-tokyo.co.jp/anime/naruto/sp/chara/chara_detail.html",
+    "imageUrl": "https://www.tv-tokyo.co.jp/anime/naruto/sp/images/chara/chara_11_1.png",
+    "originalDimensions": [
+      600,
+      700
+    ],
+    "answerCropPixels": [
+      190,
+      100,
+      465,
+      695
+    ],
+    "image": "assets/characters/C016.jpg",
+    "rawSHA256": "60b5a81898c5b66eb99679fe8c196e371c3d42c306ebefa2739656aa61b4063d",
+    "answerSHA256": "0c8412e8a6054e510ad66331fe09a5cd042b46989e661ff12965122fa6498386"
+  },
+  {
+    "key": "C017",
+    "name": "我爱罗",
+    "source": "火影忍者",
+    "sourcePage": "https://www.tv-tokyo.co.jp/anime/naruto/sp/chara/chara_detail.html",
+    "imageUrl": "https://www.tv-tokyo.co.jp/anime/naruto/sp/images/chara/chara_28_1.png",
+    "originalDimensions": [
+      600,
+      700
+    ],
+    "answerCropPixels": [
+      190,
+      100,
+      465,
+      695
+    ],
+    "image": "assets/characters/C017.jpg",
+    "rawSHA256": "77044e9dfb9951e99f67312010ebb078c9e84edec54213250f8d7b334b737b1f",
+    "answerSHA256": "1548d2641c72b3324371c9d9658c20a747470735486694c8b1b55454bd64814a"
+  },
+  {
+    "key": "C018",
+    "name": "灶门祢豆子",
+    "source": "鬼灭之刃",
+    "sourcePage": "https://game.kimetsu.com/hinokami/character/",
+    "imageUrl": "https://game.kimetsu.com/hinokami/assets/img/sub/character/chara2.png",
+    "originalDimensions": [
+      615,
+      544
+    ],
+    "answerCropPixels": [
+      73,
+      12,
+      537,
+      479
+    ],
+    "image": "assets/characters/C018.jpg",
+    "rawSHA256": "b0b17ca11bf78f11032e02f40b03e06f8ab485fb2baf2bebfe4e8442dc9d0596",
+    "answerSHA256": "6263508e5da26edbbe00ce20a3c5bf0764332f2066e37dec3c2f957ca43a99a8"
+  },
+  {
+    "key": "C019",
+    "name": "我妻善逸",
+    "source": "鬼灭之刃",
+    "sourcePage": "https://game.kimetsu.com/hinokami/character/",
+    "imageUrl": "https://game.kimetsu.com/hinokami/assets/img/sub/character/chara3.png",
+    "originalDimensions": [
+      600,
+      546
+    ],
+    "answerCropPixels": [
+      88,
+      47,
+      510,
+      524
+    ],
+    "image": "assets/characters/C019.jpg",
+    "rawSHA256": "a30f02faac41b98e329fd2a8a3a4b46c2278e25450b5b398fb286723b67e0e3f",
+    "answerSHA256": "be418eeb226f522ab260ea4c2fb0fdc4d5f2e189b3871024654196f9bd9a5db2"
+  },
+  {
+    "key": "C020",
+    "name": "嘴平伊之助",
+    "source": "鬼灭之刃",
+    "sourcePage": "https://game.kimetsu.com/hinokami/character/",
+    "imageUrl": "https://game.kimetsu.com/hinokami/assets/img/sub/character/chara4.png",
+    "originalDimensions": [
+      880,
+      640
+    ],
+    "answerCropPixels": [
+      14,
+      21,
+      862,
+      625
+    ],
+    "image": "assets/characters/C020.jpg",
+    "rawSHA256": "119b953a3f12e07fa72167360fcc44e5bb74c0ec5f83c4c56a64f72eb39d508e",
+    "answerSHA256": "bb335c78e7cc24f47e3c7749b54577eb3dfb63b3bcbe4acea9702b2ebee537d0"
+  },
+  {
+    "key": "C021",
+    "name": "富冈义勇",
+    "source": "鬼灭之刃",
+    "sourcePage": "https://game.kimetsu.com/hinokami/character/",
+    "imageUrl": "https://game.kimetsu.com/hinokami/assets/img/sub/character/chara5.png",
+    "originalDimensions": [
+      665,
+      481
+    ],
+    "answerCropPixels": [
+      0,
+      0,
+      664,
+      481
+    ],
+    "image": "assets/characters/C021.jpg",
+    "rawSHA256": "20fcf467f6e1dc0324a030328e6301643e916e318d4ed8cc0018e0d8256f2c04",
+    "answerSHA256": "f316c1e8195abee2477b8d75ecf6f6996f347d8ea3bbb0e71017710e7a556dbb"
+  },
+  {
+    "key": "C022",
+    "name": "蝴蝶忍",
+    "source": "鬼灭之刃",
+    "sourcePage": "https://game.kimetsu.com/hinokami/character/",
+    "imageUrl": "https://game.kimetsu.com/hinokami/assets/img/sub/character/chara9.png",
+    "originalDimensions": [
+      451,
+      549
+    ],
+    "answerCropPixels": [
+      0,
+      0,
+      449,
+      549
+    ],
+    "image": "assets/characters/C022.jpg",
+    "rawSHA256": "c7f9f0cef21b74b4fbb09048d9e07d5cd8596694aea0f44ab14c634226afd07d",
+    "answerSHA256": "b8eaa4b13bae0bd8bbc9ba289b78c2170ea5f82a5a1c0cea04ae5fec1bbb3f90"
+  },
+  {
+    "key": "C023",
+    "name": "虎杖悠仁",
+    "source": "咒术回战",
+    "sourcePage": "https://jujutsukaisen.jp/character/index_1st.php",
+    "imageUrl": "https://jujutsukaisen.jp/images/chara_detail1.png",
+    "originalDimensions": [
+      750,
+      1094
+    ],
+    "answerCropPixels": [
+      199,
+      39,
+      584,
+      1093
+    ],
+    "image": "assets/characters/C023.jpg",
+    "rawSHA256": "26662466d4d97b83b9d0d27f6eb5263de90d8389b3e654c8110de19df66e9c2b",
+    "answerSHA256": "e45bd2eff2ba3b7281015f1eaf8d08479ad2d208b389cff4619770f7889f5eea"
+  },
+  {
+    "key": "C024",
+    "name": "伏黑惠",
+    "source": "咒术回战",
+    "sourcePage": "https://jujutsukaisen.jp/character/index_1st.php",
+    "imageUrl": "https://jujutsukaisen.jp/images/chara_detail2.png",
+    "originalDimensions": [
+      750,
+      1098
+    ],
+    "answerCropPixels": [
+      193,
+      0,
+      557,
+      1098
+    ],
+    "image": "assets/characters/C024.jpg",
+    "rawSHA256": "afd15daa6fc1ae40404e74565070f19938afb7d44d8ed9e595c3767fe43bebfd",
+    "answerSHA256": "35868b33490f2286ff2a3296252c4eceaa7f1bea48109e177a34f36208279e53"
+  },
+  {
+    "key": "C025",
+    "name": "钉崎野蔷薇",
+    "source": "咒术回战",
+    "sourcePage": "https://jujutsukaisen.jp/character/index_1st.php",
+    "imageUrl": "https://jujutsukaisen.jp/images/chara_detail3.png",
+    "originalDimensions": [
+      750,
+      1018
+    ],
+    "answerCropPixels": [
+      186,
+      56,
+      543,
+      1018
+    ],
+    "image": "assets/characters/C025.jpg",
+    "rawSHA256": "029fb03c067cd74e48b66702373bddb1bf27b10e4cb256b655cdfbd606c60fb8",
+    "answerSHA256": "6151a4cab1d3ac094decbeb885bc20378ccef98ee87c88b011d11c791e15b3d6"
+  },
+  {
+    "key": "C026",
+    "name": "禅院真希",
+    "source": "咒术回战",
+    "sourcePage": "https://jujutsukaisen.jp/character/index_1st.php",
+    "imageUrl": "https://jujutsukaisen.jp/images/chara_detail6.png",
+    "originalDimensions": [
+      750,
+      1094
+    ],
+    "answerCropPixels": [
+      74,
+      39,
+      642,
+      1072
+    ],
+    "image": "assets/characters/C026.jpg",
+    "rawSHA256": "03b6d0f5f3ed154e00f05e683673331fed1c1c9d3363faf4a68db4b7bca13bac",
+    "answerSHA256": "4421f8b00aaf35dc4d1d7e55eeeda1d9e071eaf1352c13a2c8881ec3fa16d9dd"
+  },
+  {
+    "key": "C027",
+    "name": "熊猫",
+    "source": "咒术回战",
+    "sourcePage": "https://jujutsukaisen.jp/character/index_1st.php",
+    "imageUrl": "https://jujutsukaisen.jp/images/chara_detail8.png",
+    "originalDimensions": [
+      750,
+      1094
+    ],
+    "answerCropPixels": [
+      63,
+      44,
+      706,
+      1087
+    ],
+    "image": "assets/characters/C027.jpg",
+    "rawSHA256": "8f2a306e6690273992e9a4ac592de4f8bfb298114d82f090ddc9fe6402e2bf37",
+    "answerSHA256": "5bc206feb67551af472384478d09abf822f77f2453c8dd7eee3088cfa1ce1d37"
+  },
+  {
+    "key": "C028",
+    "name": "洛伊德",
+    "source": "间谍过家家",
+    "sourcePage": "https://spy-family.net/tvseries/",
+    "imageUrl": "https://spy-family.net/tvseries/assets/img/top/chara_loid_1.png",
+    "originalDimensions": [
+      1500,
+      1240
+    ],
+    "answerCropPixels": [
+      593,
+      91,
+      935,
+      1136
+    ],
+    "image": "assets/characters/C028.jpg",
+    "rawSHA256": "7dec7ca73e2b549a879771524c725b1e040edfd1e61d3f19dfa9c54e4676b85a",
+    "answerSHA256": "3a8684a4c937780e96cce37e8a09a3b29c0b785359e643c14d5f91eb0bacb91a"
+  },
+  {
+    "key": "C029",
+    "name": "约尔",
+    "source": "间谍过家家",
+    "sourcePage": "https://spy-family.net/tvseries/",
+    "imageUrl": "https://spy-family.net/tvseries/assets/img/top/chara_yor_1.png",
+    "originalDimensions": [
+      1500,
+      1240
+    ],
+    "answerCropPixels": [
+      513,
+      36,
+      951,
+      1111
+    ],
+    "image": "assets/characters/C029.jpg",
+    "rawSHA256": "11fcfff8b59a204f0d5bcd6d14f638a19cbe72526e8dcfcb88f85a81c8ac8efb",
+    "answerSHA256": "ebaa613a8b7a2b8e45b65c409f06363919df6c765083ef632b62d93a99ccf1e9"
+  },
+  {
+    "key": "C030",
+    "name": "邦德",
+    "source": "间谍过家家",
+    "sourcePage": "https://spy-family.net/tvseries/",
+    "imageUrl": "https://spy-family.net/tvseries/assets/img/top/chara_bond.png",
+    "originalDimensions": [
+      1500,
+      1240
+    ],
+    "answerCropPixels": [
+      388,
+      194,
+      1163,
+      876
+    ],
+    "image": "assets/characters/C030.jpg",
+    "rawSHA256": "8534db42d3c33d08fda7c6a380391b0e2c8279007ab29aee8a579f869bdd1233",
+    "answerSHA256": "cfcee6bec9ea1c663302a5e696b58e3ff2af46117455374147d4144db0acc795"
+  },
+  {
+    "key": "C031",
+    "name": "路飞",
+    "source": "海贼王",
+    "sourcePage": "https://one-piece.com/character/luffy/index.html",
+    "imageUrl": "https://one-piece.com/o/assets/images/anime/character/data/luffy/img.jpg",
+    "originalDimensions": [
+      1200,
+      998
+    ],
+    "answerCropPixels": [
+      385,
+      15,
+      772,
+      976
+    ],
+    "image": "assets/characters/C031.jpg",
+    "rawSHA256": "f81b9841a12b9d8f0ba8237f04e7981b19243ecdd66d8efe8c4529881f14e31a",
+    "answerSHA256": "307bd25b97413a7ca521b577e6b447b0aef671db732002f9e21e23eb37578414",
+    "quizID": "I13",
+    "guessFile": "assets/images/I13_guess.jpg",
+    "guessCropPixels": [
+      70,
+      0,
+      329,
+      91
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "草帽",
+    "guessSHA256": "2df9c93a65c08035dc2bdf9b7f17d3255698d58e77f1cb1eb111f7f207b0af29"
+  },
+  {
+    "key": "C032",
+    "name": "索隆",
+    "source": "海贼王",
+    "sourcePage": "https://one-piece.com/character/zoro/index.html",
+    "imageUrl": "https://one-piece.com/o/assets/images/anime/character/data/zoro/img.jpg",
+    "originalDimensions": [
+      1200,
+      998
+    ],
+    "answerCropPixels": [
+      396,
+      16,
+      885,
+      973
+    ],
+    "image": "assets/characters/C032.jpg",
+    "rawSHA256": "31738c98a4b17c92795c3fb5c02fa8381151c0976f185a62ea7de5b166f63f94",
+    "answerSHA256": "96567e71127a1b9d15c01920c970101706a6d7f53fe21b062a11c87dfcc012ce",
+    "quizID": "I14",
+    "guessFile": "assets/images/I14_guess.jpg",
+    "guessCropPixels": [
+      0,
+      191,
+      293,
+      526
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "剑与服装",
+    "guessSHA256": "dff97477db23889b8dca6a8a299762c7434c6b053d8400b4ad671d5e694cd1dc"
+  },
+  {
+    "key": "C033",
+    "name": "娜美",
+    "source": "海贼王",
+    "sourcePage": "https://one-piece.com/character/nami/index.html",
+    "imageUrl": "https://one-piece.com/o/assets/images/anime/character/data/nami/img.jpg",
+    "originalDimensions": [
+      1200,
+      998
+    ],
+    "answerCropPixels": [
+      440,
+      17,
+      810,
+      974
+    ],
+    "image": "assets/characters/C033.jpg",
+    "rawSHA256": "4b73d2104a151e1851ae4531a2dcda368c57fd7c37f243b43c3736232de4a4d4",
+    "answerSHA256": "c14ca7a90354db67c771aafa1ed005cc66884f06f6d97ed47d4462fe87382bef"
+  },
+  {
+    "key": "C034",
+    "name": "山治",
+    "source": "海贼王",
+    "sourcePage": "https://one-piece.com/character/sanji/index.html",
+    "imageUrl": "https://one-piece.com/o/assets/images/anime/character/data/sanji/img.jpg",
+    "originalDimensions": [
+      1200,
+      998
+    ],
+    "answerCropPixels": [
+      419,
+      66,
+      767,
+      973
+    ],
+    "image": "assets/characters/C034.jpg",
+    "rawSHA256": "e2f80d796765ee1776c9f388d21c19bbfba5db55cfb91764d1f1bdccf34a7a32",
+    "answerSHA256": "4e9d0e93e3c4c96c1db487bd1daa8a3ddfeb6996a49e940cc4ca785a7d41f49f"
+  },
+  {
+    "key": "C035",
+    "name": "乔巴",
+    "source": "海贼王",
+    "sourcePage": "https://one-piece.com/character/chopper/index.html",
+    "imageUrl": "https://one-piece.com/o/assets/images/anime/character/data/chopper/img.jpg",
+    "originalDimensions": [
+      1200,
+      713
+    ],
+    "answerCropPixels": [
+      310,
+      66,
+      902,
+      641
+    ],
+    "image": "assets/characters/C035.jpg",
+    "rawSHA256": "919c433e6665f1792a0a9ba51613a56f4108a047189afd8dc5aafe6dc3772d26",
+    "answerSHA256": "a18de43611afaa8beaa0e9da8efa6aac9358c4465cbfa1f084d3ae009cac866e",
+    "quizID": "I15",
+    "guessFile": "assets/images/I15_guess.jpg",
+    "guessCropPixels": [
+      59,
+      0,
+      462,
+      126
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "帽子",
+    "guessSHA256": "a13306ae471f3c4fb803294415959399beec99aaaa90a5bee3c28c3d6a25d376"
+  },
+  {
+    "key": "C036",
+    "name": "乌索普",
+    "source": "海贼王",
+    "sourcePage": "https://one-piece.com/character/usopp/index.html",
+    "imageUrl": "https://one-piece.com/o/assets/images/anime/character/data/usopp/img.jpg",
+    "originalDimensions": [
+      1200,
+      863
+    ],
+    "answerCropPixels": [
+      421,
+      19,
+      824,
+      828
+    ],
+    "image": "assets/characters/C036.jpg",
+    "rawSHA256": "56917a94910a39ef521988f6b69ede703146f4a40f2ae952159c8eab3bd2a313",
+    "answerSHA256": "a7cf0d281c762e09e349919a07c019e5e9456a853068be2f4b8b514ef7a31073"
+  },
+  {
+    "key": "C037",
+    "name": "皮卡丘",
+    "source": "宝可梦",
+    "sourcePage": "https://www.pokemon.com/us/pokedex/25",
+    "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png",
+    "originalDimensions": [
+      475,
+      475
+    ],
+    "answerCropPixels": [
+      22,
+      35,
+      453,
+      440
+    ],
+    "image": "assets/characters/C037.jpg",
+    "rawSHA256": "759ceafdb4b8d637dfcfe673cf672bc3c472354a3b2e7e0835d9cdcacd8d195d",
+    "answerSHA256": "588019da211ea02d55f53e894cc13b2040cefd65349dffb117cf987a1d15f1c1",
+    "quizID": "I19",
+    "guessFile": "assets/images/I19_guess.jpg",
+    "guessCropPixels": [
+      9,
+      0,
+      345,
+      109
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "耳朵",
+    "guessSHA256": "ab6e20ba3edfd4b5a136d5897c30229f55ee3d9c18e29dd8c37d45d10f43372c"
+  },
+  {
+    "key": "C038",
+    "name": "伊布",
+    "source": "宝可梦",
+    "sourcePage": "https://www.pokemon.com/us/pokedex/133",
+    "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/133.png",
+    "originalDimensions": [
+      475,
+      475
+    ],
+    "answerCropPixels": [
+      62,
+      22,
+      413,
+      453
+    ],
+    "image": "assets/characters/C038.jpg",
+    "rawSHA256": "33ea993d3478ee920062b0bf27792a045b3a2f75d941bdb8cb3912ef50b1fb44",
+    "answerSHA256": "8962f4e5be9b436cb6f695f7fdbcf3e27fb4495382a569ea67e6bba116453d3c",
+    "quizID": "I20",
+    "guessFile": "assets/images/I20_guess.jpg",
+    "guessCropPixels": [
+      28,
+      228,
+      333,
+      375
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "颈毛与尾巴",
+    "guessSHA256": "66ea8382f25fa0e47851345320a07b879252b6a99b5c5436c066d56c3dd80139"
+  },
+  {
+    "key": "C039",
+    "name": "小火龙",
+    "source": "宝可梦",
+    "sourcePage": "https://www.pokemon.com/us/pokedex/4",
+    "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png",
+    "originalDimensions": [
+      475,
+      475
+    ],
+    "answerCropPixels": [
+      46,
+      22,
+      428,
+      453
+    ],
+    "image": "assets/characters/C039.jpg",
+    "rawSHA256": "0c8e36e321cbd6578d0b669324edf6cb819f8e510dbac43cee22c4221db80b4d",
+    "answerSHA256": "2a5ee159f7bab10f2c16d7c1306cc79e5d59f9d6ab940993e30d0c077f00fc7b"
+  },
+  {
+    "key": "C040",
+    "name": "杰尼龟",
+    "source": "宝可梦",
+    "sourcePage": "https://www.pokemon.com/us/pokedex/7",
+    "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png",
+    "originalDimensions": [
+      475,
+      475
+    ],
+    "answerCropPixels": [
+      29,
+      22,
+      446,
+      453
+    ],
+    "image": "assets/characters/C040.jpg",
+    "rawSHA256": "37cda7bf8ad6f4252d539aed3bd989a85c8cb0f8e9d815be12bad08c16f31fe9",
+    "answerSHA256": "b2c6b1b1e6480dc901de4a13ac9fc0adcf1de1439f8f7875a5d09aaddc5ad316"
+  },
+  {
+    "key": "C041",
+    "name": "妙蛙种子",
+    "source": "宝可梦",
+    "sourcePage": "https://www.pokemon.com/us/pokedex/1",
+    "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png",
+    "originalDimensions": [
+      475,
+      475
+    ],
+    "answerCropPixels": [
+      22,
+      36,
+      453,
+      438
+    ],
+    "image": "assets/characters/C041.jpg",
+    "rawSHA256": "7233d8d8b03b5fa91d835a3069d25769155db93c9ef91b6066e215ed3895e9d8",
+    "answerSHA256": "788097e701170ac8f10a85191bd6dbeb2126fdc1591f7d19f4ac7c9013da605f"
+  },
+  {
+    "key": "C042",
+    "name": "可达鸭",
+    "source": "宝可梦",
+    "sourcePage": "https://www.pokemon.com/us/pokedex/54",
+    "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/054.png",
+    "originalDimensions": [
+      475,
+      475
+    ],
+    "answerCropPixels": [
+      71,
+      22,
+      404,
+      453
+    ],
+    "image": "assets/characters/C042.jpg",
+    "rawSHA256": "87110a75d9d9c67e0d82b912abcea3c25a96bc394e366812c65639ea1bacdf40",
+    "answerSHA256": "11933f93e4a1555c600057a714b7dce71dc37e920d5ab63d6e18861d6324fb4d",
+    "quizID": "I21",
+    "guessFile": "assets/images/I21_guess.jpg",
+    "guessCropPixels": [
+      83,
+      0,
+      253,
+      95
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "头顶特征",
+    "guessSHA256": "65af4294d4aca80d1c534a04684f36de657c166e697804c504e5fc3d8bcacf22"
+  },
+  {
+    "key": "C043",
+    "name": "孙悟空",
+    "source": "龙珠",
+    "sourcePage": "https://2022dbs.com/character.html",
+    "imageUrl": "https://2022dbs.com/img/chara/detail/chara_3.png",
+    "originalDimensions": [
+      1590,
+      2160
+    ],
+    "answerCropPixels": [
+      262,
+      90,
+      1132,
+      2050
+    ],
+    "image": "assets/characters/C043.jpg",
+    "rawSHA256": "94671d8a2c432ac436925f7a3e3d6795458dcd1c0ba864b6d2c59434451d6d8f",
+    "answerSHA256": "a41f0218cdf92811d88d835228a67f3c009e42dbdb67d9c0bd5b70062c4d801c",
+    "quizID": "I16",
+    "guessFile": "assets/images/I16_guess.jpg",
+    "guessCropPixels": [
+      73,
+      308,
+      429,
+      627
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "橙色道服",
+    "guessSHA256": "b0bbc3b4d23d420dc257a8ceca12ceaa0e85b8631529d621160bcf1951223e77"
+  },
+  {
+    "key": "C044",
+    "name": "贝吉塔",
+    "source": "龙珠",
+    "sourcePage": "https://2022dbs.com/character.html",
+    "imageUrl": "https://2022dbs.com/img/chara/detail/chara_4.png",
+    "originalDimensions": [
+      1590,
+      2160
+    ],
+    "answerCropPixels": [
+      30,
+      198,
+      1128,
+      1962
+    ],
+    "image": "assets/characters/C044.jpg",
+    "rawSHA256": "56a1ba258141b4ec09bbcdddf0a1b8cb19da8b1bfb750291471f3f728c78ed9c",
+    "answerSHA256": "5f1b96940e94c58c13353e949937baaddc4c0b85b3cf215ae35b213b21fe0f19",
+    "quizID": "I17",
+    "guessFile": "assets/images/I17_guess.jpg",
+    "guessCropPixels": [
+      68,
+      297,
+      623,
+      605
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "手套与战斗服",
+    "guessSHA256": "89547e86c02f8cd96759bc684b3eb34ecd4136582aaeb8defceb933f0598a8fd"
+  },
+  {
+    "key": "C045",
+    "name": "克林",
+    "source": "龙珠",
+    "sourcePage": "https://2022dbs.com/character.html",
+    "imageUrl": "https://2022dbs.com/img/chara/detail/chara_9.png",
+    "originalDimensions": [
+      1590,
+      2160
+    ],
+    "answerCropPixels": [
+      294,
+      566,
+      980,
+      1636
+    ],
+    "image": "assets/characters/C045.jpg",
+    "rawSHA256": "1b411ae157037dffade1935b96fb8e901615728a7b885feb0a5fd004b17f0ec1",
+    "answerSHA256": "ac8d1082e307e0b12422c60ba32f59b36dc2ab2b9e8681c73da48765d8cf00b4"
+  },
+  {
+    "key": "C046",
+    "name": "布尔玛",
+    "source": "龙珠",
+    "sourcePage": "https://2022dbs.com/character.html",
+    "imageUrl": "https://2022dbs.com/img/chara/detail/chara_5.png",
+    "originalDimensions": [
+      1590,
+      2160
+    ],
+    "answerCropPixels": [
+      410,
+      210,
+      964,
+      1974
+    ],
+    "image": "assets/characters/C046.jpg",
+    "rawSHA256": "5dd23e401310a5bdb6a5caf516ca8d26e523633ecd3a54df96bf71689d7e1721",
+    "answerSHA256": "38da6c97516a4a4b026d75659f28448caee2cacae922b25314f3803a88c9e3aa"
+  },
+  {
+    "key": "C047",
+    "name": "比克",
+    "source": "龙珠",
+    "sourcePage": "https://2022dbs.com/character.html",
+    "imageUrl": "https://2022dbs.com/img/chara/detail/chara_2.png",
+    "originalDimensions": [
+      1590,
+      2160
+    ],
+    "answerCropPixels": [
+      232,
+      138,
+      1590,
+      2078
+    ],
+    "image": "assets/characters/C047.jpg",
+    "rawSHA256": "0b19dd30a33bfb41de88777f7be7a614ab328a4d66df9cd9fb9fe0ed11e2d120",
+    "answerSHA256": "6374db61e1b9fdf16031f9b47da000d8a44f2dd709a9204f874cea05e5e9d138"
+  },
+  {
+    "key": "C048",
+    "name": "孙悟饭",
+    "source": "龙珠",
+    "sourcePage": "https://2022dbs.com/character.html",
+    "imageUrl": "https://2022dbs.com/img/chara/detail/chara_1.png",
+    "originalDimensions": [
+      1590,
+      2160
+    ],
+    "answerCropPixels": [
+      168,
+      132,
+      1088,
+      2106
+    ],
+    "image": "assets/characters/C048.jpg",
+    "rawSHA256": "45d909b27c0d2b84007f325154170c616d2b4037223823fdea5214b1837c597e",
+    "answerSHA256": "1dddffd312fca0f6bd1bf2e4c4bf6ae330772ce9b9d6e1caf068aabfb29d71ae"
+  },
+  {
+    "key": "C049",
+    "name": "纳西妲",
+    "source": "原神",
+    "sourcePage": "https://wiki.biligame.com/ys/%E7%BA%B3%E8%A5%BF%E5%A6%B2",
+    "imageUrl": "https://patchwiki.biligame.com/images/ys/3/30/6mlpdxkvtkncah5h2xe26bsmyhfqpfp.png",
+    "originalDimensions": [
+      2250,
+      2250
+    ],
+    "answerCropPixels": [
+      0,
+      0,
+      2250,
+      2250
+    ],
+    "image": "assets/characters/C049.jpg",
+    "rawSHA256": "0686fa6f581c0762086d3e09cad1de77b427b9b44c18e55e1591e09615088fbe",
+    "answerSHA256": "93e5910d58aff5ccf3ba1d669d4cb0a6bc10756be72403461ea0bbf7b1d8ad16",
+    "quizID": "I30",
+    "guessFile": "assets/images/I30_guess.jpg",
+    "guessCropPixels": [
+      319,
+      473,
+      792,
+      792
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "服装与草元素装饰",
+    "guessSHA256": "683ad6f8ed7a87d5ce677da7e9b855d63ef9f7e8bdee0d2e176aa87ee9af9257"
+  },
+  {
+    "key": "C050",
+    "name": "钟离",
+    "source": "原神",
+    "sourcePage": "https://wiki.biligame.com/ys/%E9%92%9F%E7%A6%BB",
+    "imageUrl": "https://patchwiki.biligame.com/images/ys/8/81/8393e6kjulrau058jy9qolyv30bfkiz.png",
+    "originalDimensions": [
+      2250,
+      2250
+    ],
+    "answerCropPixels": [
+      0,
+      0,
+      2250,
+      2250
+    ],
+    "image": "assets/characters/C050.jpg",
+    "rawSHA256": "945f68e54a326c5473cb250cb5595514db1d28099a096b5be41162d8bc1ccc77",
+    "answerSHA256": "daec06d7ccc21c711e2f4aaa387c602f8dfcbdc34d061b197e8f7824f585fd27"
+  },
+  {
+    "key": "C051",
+    "name": "温迪",
+    "source": "原神",
+    "sourcePage": "https://wiki.biligame.com/ys/%E6%B8%A9%E8%BF%AA",
+    "imageUrl": "https://patchwiki.biligame.com/images/ys/e/e7/8b0k0v04mmzivr5iibcdyiswrb2v5z1.png",
+    "originalDimensions": [
+      2250,
+      2250
+    ],
+    "answerCropPixels": [
+      0,
+      0,
+      2250,
+      2250
+    ],
+    "image": "assets/characters/C051.jpg",
+    "rawSHA256": "63d573ee5fb4ca79af88602189bb92b936e4891ffafbf051b542c8c6eda5976e",
+    "answerSHA256": "5440d1e8e0cbe2e1be82a6e16681e68a0e4da4e26a29d44d6c6a4c582a03d3b3"
+  },
+  {
+    "key": "C052",
+    "name": "派蒙",
+    "source": "原神",
+    "sourcePage": "https://wiki.biligame.com/ys/%E6%B4%BE%E8%92%99",
+    "imageUrl": "https://patchwiki.biligame.com/images/ys/b/b1/mtc4bm4e7awu0x22hjmitd25rq19as9.png",
+    "originalDimensions": [
+      1920,
+      1200
+    ],
+    "answerCropPixels": [
+      50,
+      70,
+      1100,
+      1150
+    ],
+    "image": "assets/characters/C052.jpg",
+    "rawSHA256": "f999bff3f77ca8057d984f753289659960c02b48dfc27ad13f2dfe90658f3447",
+    "answerSHA256": "f7c98f02bfa4087d573daeb4a7cdd987e43c83c6b6632d7ef49cc5c97bd574d6"
+  },
+  {
+    "key": "C053",
+    "name": "丹恒",
+    "source": "崩坏：星穹铁道",
+    "sourcePage": "https://wiki.biligame.com/sr/%E4%B8%B9%E6%81%92",
+    "imageUrl": "https://patchwiki.biligame.com/images/sr/2/24/mr59xxu5f8bf7ych9p761lw9w3clr48.png",
+    "originalDimensions": [
+      2048,
+      2048
+    ],
+    "answerCropPixels": [
+      0,
+      11,
+      2048,
+      2048
+    ],
+    "image": "assets/characters/C053.jpg",
+    "rawSHA256": "ce5eeb2acdac33b9c660ee7e9911ac1236180e30a654612934a8ebe846a80c9d",
+    "answerSHA256": "aebfdfb84ea8e7f849ac46bad43ddc643785f20083ef98a9aea9eeda1c9d276a",
+    "quizID": "I31",
+    "guessFile": "assets/images/I31_guess.jpg",
+    "guessCropPixels": [
+      165,
+      481,
+      880,
+      766
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "长枪与服装",
+    "guessSHA256": "891bc449ee032a7240bc2907dac478ef68a74ad8b69f585d0e4e47bd4ac66b97"
+  },
+  {
+    "key": "C054",
+    "name": "景元",
+    "source": "崩坏：星穹铁道",
+    "sourcePage": "https://wiki.biligame.com/sr/%E6%99%AF%E5%85%83",
+    "imageUrl": "https://patchwiki.biligame.com/images/sr/d/d7/75i0d6w9p870am9qaftliq8aj22usvs.png",
+    "originalDimensions": [
+      2048,
+      2048
+    ],
+    "answerCropPixels": [
+      0,
+      0,
+      2048,
+      2048
+    ],
+    "image": "assets/characters/C054.jpg",
+    "rawSHA256": "05c6f6b635ce8e1c0905cc3a937276166a386cfe1e49a05079284b42d98cb31a",
+    "answerSHA256": "2963822cd9ef0fb566b87241f45b35ba2788d00c5c3229d99fea0bcd5d9f6b1d"
+  },
+  {
+    "key": "C055",
+    "name": "安比",
+    "source": "绝区零",
+    "sourcePage": "https://wiki.biligame.com/zzz/%E5%AE%89%E6%AF%94",
+    "imageUrl": "https://patchwiki.biligame.com/images/zzz/2/2c/b2nsjfpzj7zunvpzhd6elagevtv5rw3.png",
+    "originalDimensions": [
+      883,
+      1143
+    ],
+    "answerCropPixels": [
+      4,
+      0,
+      848,
+      1143
+    ],
+    "image": "assets/characters/C055.jpg",
+    "rawSHA256": "0f653e0944e4cdf9bb2241116d079ced23edf26360ebaf3bc6766ddd03271b6e",
+    "answerSHA256": "bace6fb31676044c05fccac1ff2ae9253f2ed545913086e7ea78d8934686e93a",
+    "quizID": "I32",
+    "guessFile": "assets/images/I32_guess.jpg",
+    "guessCropPixels": [
+      24,
+      231,
+      487,
+      506
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "外套与装备",
+    "guessSHA256": "51df6eb98b29d0a0630a64c831bfabb4973a7134dabdd34c765c7d3183947fe3"
+  },
+  {
+    "key": "C056",
+    "name": "妮可",
+    "source": "绝区零",
+    "sourcePage": "https://wiki.biligame.com/zzz/%E5%A6%AE%E5%8F%AF",
+    "imageUrl": "https://patchwiki.biligame.com/images/zzz/d/d2/8i2skjn9mqhk2dcdh5sk832518xbsv3.png",
+    "originalDimensions": [
+      882,
+      1143
+    ],
+    "answerCropPixels": [
+      53,
+      0,
+      696,
+      1143
+    ],
+    "image": "assets/characters/C056.jpg",
+    "rawSHA256": "c05552e72c59296c5e75aac2d25252e08f5adcc0ab478737cb788c9be70bfa87",
+    "answerSHA256": "d4232969cf431d2c444810768ced09d2b0cef6296934acf248a5a2b1a71933ae"
+  },
+  {
+    "key": "C057",
+    "name": "比利",
+    "source": "绝区零",
+    "sourcePage": "https://wiki.biligame.com/zzz/%E6%AF%94%E5%88%A9",
+    "imageUrl": "https://patchwiki.biligame.com/images/zzz/b/b9/hcc2tnfb926ra2j01rmghh6t10s2o2o.png",
+    "originalDimensions": [
+      931,
+      1205
+    ],
+    "answerCropPixels": [
+      71,
+      0,
+      896,
+      1205
+    ],
+    "image": "assets/characters/C057.jpg",
+    "rawSHA256": "0c9b520eb8c533d837a4a254178fc9ad1ac4fc136cef96512b351fa5f0d74934",
+    "answerSHA256": "476634cddbc0b0c37ecfe5b8fcf589160475ba5dd9edc28653f7e0e024c91cd6"
+  },
+  {
+    "key": "C058",
+    "name": "艾莲",
+    "source": "绝区零",
+    "sourcePage": "https://wiki.biligame.com/zzz/%E8%89%BE%E8%8E%B2",
+    "imageUrl": "https://patchwiki.biligame.com/images/zzz/b/b1/0zf0pp4ougzv7n6rnvimn1bckp9ywdx.png",
+    "originalDimensions": [
+      962,
+      1246
+    ],
+    "answerCropPixels": [
+      0,
+      59,
+      962,
+      1187
+    ],
+    "image": "assets/characters/C058.jpg",
+    "rawSHA256": "af049a76a6f2b955f41f4aff3dec2e3204cf6e1fa4ab51c2456906e7dd03ffd2",
+    "answerSHA256": "9e03027fea2d89c93895c75a8501c2d9f3b0dad005bf77a33e3db6e8d2c7f604",
+    "quizID": "I33",
+    "guessFile": "assets/images/I33_guess.jpg",
+    "guessCropPixels": [
+      0,
+      418,
+      713,
+      803
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "鲨鱼尾与武器",
+    "guessSHA256": "e035bc9d5fb06acf95890e8c49a0e987aa099d6da3e7da952ae8631cffd8f3cd"
+  },
+  {
+    "key": "C059",
+    "name": "企业",
+    "source": "碧蓝航线",
+    "sourcePage": "https://wiki.biligame.com/blhx/%E4%BC%81%E4%B8%9A",
+    "imageUrl": "https://patchwiki.biligame.com/images/blhx/a/a2/1lwxg8c62po6ldaqhzz6ahtz0jshdsq.jpg",
+    "originalDimensions": [
+      1000,
+      1500
+    ],
+    "answerCropPixels": [
+      0,
+      0,
+      1000,
+      1500
+    ],
+    "image": "assets/characters/C059.jpg",
+    "rawSHA256": "9b54f328eb222ce51f05bd85c307ad934b1e79c1fb0278ab483e16309fe13ba3",
+    "answerSHA256": "0e7392652afb5edf9ae4c9f551d10fdf6141e6751e843b2830e362e12cfd0a52",
+    "quizID": "I35",
+    "guessFile": "assets/images/I35_guess.jpg",
+    "guessCropPixels": [
+      110,
+      495,
+      660,
+      902
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "舰装",
+    "guessSHA256": "6c7b1f59bbc248491e01eb1cd2ee17a791fb3598d2c21ede303f082d10db479e"
+  },
+  {
+    "key": "C060",
+    "name": "琪亚娜（空之律者）",
+    "source": "崩坏3",
+    "sourcePage": "https://wiki.biligame.com/bh3/%E7%A9%BA%E4%B9%8B%E5%BE%8B%E8%80%85",
+    "imageUrl": "https://patchwiki.biligame.com/images/bh3/3/35/o28bzup9wjtwg2gvghkzivid6346git.png",
+    "originalDimensions": [
+      700,
+      660
+    ],
+    "answerCropPixels": [
+      0,
+      0,
+      689,
+      660
+    ],
+    "image": "assets/characters/C060.jpg",
+    "rawSHA256": "db3a12d28b7bdbb5216a9596e3702fd82edc75f101766a5b17f8010618a4c0a6",
+    "answerSHA256": "4c2fd7865d61b138fa29bc9e1009fdf9829c99b80326fcc086518612b1d1938e",
+    "quizID": "I34",
+    "guessFile": "assets/images/I34_guess.jpg",
+    "guessCropPixels": [
+      441,
+      132,
+      689,
+      429
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "羽翼与装备",
+    "guessSHA256": "0c84b71f8f083f1c789c9f951306823f093ff1ad8adcddf736908e2552936d9d"
+  },
+  {
+    "key": "C061",
+    "name": "安琪拉",
+    "source": "王者荣耀",
+    "sourcePage": "https://pvp.qq.com/web201605/herodetail/142.shtml",
+    "imageUrl": "https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/142/142-bigskin-1.jpg",
+    "originalDimensions": [
+      1920,
+      882
+    ],
+    "answerCropPixels": [
+      0,
+      0,
+      1920,
+      882
+    ],
+    "image": "assets/characters/C061.jpg",
+    "rawSHA256": "5e413dfd1506b95069030d95fe5e3d1247c85718a60912b4e53cbf905c168c71",
+    "answerSHA256": "e6d4743d63d56ef269e3070502fa8be7d58dcff07942bc06e9db9d1109f7ac04"
+  },
+  {
+    "key": "C062",
+    "name": "孙悟空",
+    "source": "王者荣耀",
+    "sourcePage": "https://pvp.qq.com/web201605/herodetail/167.shtml",
+    "imageUrl": "https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/167/167-bigskin-1.jpg",
+    "originalDimensions": [
+      1920,
+      882
+    ],
+    "answerCropPixels": [
+      0,
+      0,
+      1920,
+      882
+    ],
+    "image": "assets/characters/C062.jpg",
+    "rawSHA256": "62348a588b846d13b3f93d4e7ff169400d9a0186aafb8bf01075636b25950374",
+    "answerSHA256": "ae771bb84af7c0df8fd2bf81cadbe7cba80d2670f7c2c7ceb3ed24e2d0fe5121"
+  },
+  {
+    "key": "C063",
+    "name": "庄周",
+    "source": "王者荣耀",
+    "sourcePage": "https://pvp.qq.com/web201605/herodetail/113.shtml",
+    "imageUrl": "https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/113/113-bigskin-1.jpg",
+    "originalDimensions": [
+      1920,
+      882
+    ],
+    "answerCropPixels": [
+      0,
+      0,
+      1920,
+      882
+    ],
+    "image": "assets/characters/C063.jpg",
+    "rawSHA256": "28a0a7c91e65527b1a8aa86ef7870b6657db0be8e8c12d3bdf06972f031b443d",
+    "answerSHA256": "90be828d0ff164b232f252ee9a85ffc187d8db19eddaec24430df4a9308edf29"
+  },
+  {
+    "key": "C064",
+    "name": "妲己",
+    "source": "王者荣耀",
+    "sourcePage": "https://pvp.qq.com/web201605/herodetail/109.shtml",
+    "imageUrl": "https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/109/109-bigskin-1.jpg",
+    "originalDimensions": [
+      1920,
+      882
+    ],
+    "answerCropPixels": [
+      0,
+      0,
+      1920,
+      882
+    ],
+    "image": "assets/characters/C064.jpg",
+    "rawSHA256": "4a02dae5d36144088a1d78aea0cfe896baefc5b114e35f68a16c8aa40c30e055",
+    "answerSHA256": "c74b19baf39ee941770781991b4396f2086edfd020420f0976809aa8f9c66967"
+  },
+  {
+    "key": "C065",
+    "name": "柯南",
+    "source": "名侦探柯南",
+    "sourcePage": "https://www.ytv.co.jp/conan/character/conan/",
+    "imageUrl": "https://www.ytv.co.jp/conan/character/conan/images/main_xj8nne60lhwyzim8pdi0mmd4vk2j92.png",
+    "originalDimensions": [
+      377,
+      720
+    ],
+    "answerCropPixels": [
+      31,
+      0,
+      346,
+      720
+    ],
+    "image": "assets/characters/C065.jpg",
+    "rawSHA256": "2ad2828a1d05b35375d20dc8f7365114fc2853a3a32e459a587c21407b46eb3f",
+    "answerSHA256": "c75ac6e17f92f2db3f8c359f5827d367b919246a00bd07dc7ca2aad24218a4f9",
+    "quizID": "I18",
+    "guessFile": "assets/images/I18_guess.jpg",
+    "guessCropPixels": [
+      60,
+      194,
+      296,
+      353
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "领结与西装",
+    "guessSHA256": "2b9634c59ec973ae88cf33e9ee16e4690c051e51696500edce63fb29d7e03a94"
+  },
+  {
+    "key": "C066",
+    "name": "黑崎一护",
+    "source": "死神 BLEACH",
+    "sourcePage": "https://bleach-anime.com/character/",
+    "imageUrl": "https://bleach-anime.com/assets/img/character/chara_01.png",
+    "originalDimensions": [
+      1050,
+      1500
+    ],
+    "answerCropPixels": [
+      246,
+      43,
+      805,
+      1442
+    ],
+    "image": "assets/characters/C066.jpg",
+    "rawSHA256": "5ca2c3384b8dc6796ad3749abd987f9bb94252d149459e2237e095eba440d4b7",
+    "answerSHA256": "abbf12ecab1a857617ef11989e1d95b8ba09e369783a6d4cf5608dafc96fd771",
+    "quizID": "I22",
+    "guessFile": "assets/images/I22_guess.jpg",
+    "guessCropPixels": [
+      79,
+      0,
+      317,
+      88
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "橙色头发",
+    "guessSHA256": "d98beb9e3d57972c948afc2c0c2239c516d6f998c32f46cb73ba1b63d6d9e9a1"
+  },
+  {
+    "key": "C067",
+    "name": "后藤一里",
+    "source": "孤独摇滚！",
+    "sourcePage": "https://bocchi.rocks/omnibus/character/",
+    "imageUrl": "https://bocchi.rocks/omnibus/assets/img/page/character/hitori/image_movienew.png",
+    "originalDimensions": [
+      1160,
+      2240
+    ],
+    "answerCropPixels": [
+      8,
+      117,
+      1137,
+      2232
+    ],
+    "image": "assets/characters/C067.jpg",
+    "rawSHA256": "1276ecdd278fd76d11d9c07546d6ad4428bd405eedefed371520bae20b4a742e",
+    "answerSHA256": "dd84b192080fa26db14483575499be72505403203641873ec9cc3989ce06a7cb",
+    "quizID": "I23",
+    "guessFile": "assets/images/I23_guess.jpg",
+    "guessCropPixels": [
+      100,
+      11,
+      429,
+      82
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "发饰与粉色头发",
+    "guessSHA256": "cc7ca147fd383b20654019a258f6d83535509fdf941dc743e79a573261a36443"
+  },
+  {
+    "key": "C068",
+    "name": "桐人",
+    "source": "刀剑神域",
+    "sourcePage": "https://www.swordart-online.net/aincrad/character/",
+    "imageUrl": "https://www.swordart-online.net/aincrad/assets/img/chara/big/01_kirito.png",
+    "originalDimensions": [
+      773,
+      1056
+    ],
+    "answerCropPixels": [
+      200,
+      0,
+      515,
+      1030
+    ],
+    "image": "assets/characters/C068.jpg",
+    "rawSHA256": "b1cbe7a6c93e08e88bce2cb3604ae3d5e62ba08ebb09d3dfc49ca45a3401138a",
+    "answerSHA256": "a3c04a5db680960ed495d1f0621730caeefb34dcf1537779138c07f7b2fcf5e5",
+    "quizID": "I24",
+    "guessFile": "assets/images/I24_guess.jpg",
+    "guessCropPixels": [
+      25,
+      227,
+      284,
+      505
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "黑色外套与背剑",
+    "guessSHA256": "61322f567aeaa493e8cee3928b321262cf6aeca3f13fa29a5e7dd24253290f01"
+  },
+  {
+    "key": "C069",
+    "name": "蕾姆",
+    "source": "Re：从零开始的异世界生活",
+    "sourcePage": "https://www.animatetimes.com/tag/details.php?id=5708",
+    "imageUrl": "https://img.animatetimes.com/news/visual/2016/1456367946_1_28_c18e43f0a14142fdc2a4b373370a99fd.jpg",
+    "originalDimensions": [
+      620,
+      497
+    ],
+    "answerCropPixels": [
+      190,
+      24,
+      395,
+      483
+    ],
+    "image": "assets/characters/C069.jpg",
+    "rawSHA256": "6a4ebfff98617a5f1bb1fbb890ea81c3bd0d022670494af3343a4bc965eaff40",
+    "answerSHA256": "0f7905a4d7e6a3758c67208e5e510825e5bfbef9b7202e810cc739c2d6abe102",
+    "quizID": "I25",
+    "guessFile": "assets/images/I25_guess.jpg",
+    "guessCropPixels": [
+      41,
+      0,
+      176,
+      60
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "女仆头饰",
+    "guessSHA256": "3725b6f7b131ba647bb7466390f7330847d79727f2443e27ef9585d1a1629c69"
+  },
+  {
+    "key": "C070",
+    "name": "鹿目圆",
+    "source": "魔法少女小圆",
+    "sourcePage": "https://www.madoka-magica.com/tv/character/",
+    "imageUrl": "https://www.madoka-magica.com/tv/assets/img/character/chara_img_madoka01.png",
+    "originalDimensions": [
+      1220,
+      1360
+    ],
+    "answerCropPixels": [
+      0,
+      0,
+      690,
+      1360
+    ],
+    "image": "assets/characters/C070.jpg",
+    "rawSHA256": "1ebb8bdb9d4207f7728132ae4a8a3f442e6f23e17133267d7873d77eeae0e09a",
+    "answerSHA256": "249fa0c1cd9fd23162d2aff83ddd3ffe8099fa93402994f350ae8e820d9cfaef",
+    "quizID": "I26",
+    "guessFile": "assets/images/I26_guess.jpg",
+    "guessCropPixels": [
+      28,
+      220,
+      474,
+      462
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "领结与制服",
+    "guessSHA256": "87c2d3a8d62db4ae1a39bd7863b5024a2ef3bbb3d55fce3a582bbbdcff691eae"
+  },
+  {
+    "key": "C071",
+    "name": "初音未来",
+    "source": "初音未来 / Piapro",
+    "sourcePage": "https://piapro.net/pages/character",
+    "imageUrl": "https://piapro.net/images/ch_img_miku.png",
+    "originalDimensions": [
+      519,
+      791
+    ],
+    "answerCropPixels": [
+      0,
+      0,
+      519,
+      791
+    ],
+    "image": "assets/characters/C071.jpg",
+    "rawSHA256": "24346813e53347219795a1ec515b5ceeffd28329af368c97a4ee556a7b93ba22",
+    "answerSHA256": "370ff903f4d20570ba628865972ff646866f3471359072cde5f80955f7f959d3",
+    "quizID": "I27",
+    "guessFile": "assets/images/I27_guess.jpg",
+    "guessCropPixels": [
+      10,
+      245,
+      208,
+      672
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "双马尾与袖子",
+    "guessSHA256": "5e78ee0a414652534b7e62c9530069a758ec1ea8c0ba5ffdfa0bbecf2def4082"
+  },
+  {
+    "key": "C072",
+    "name": "卡比",
+    "source": "星之卡比",
+    "sourcePage": "https://www.kirby.jp/character/",
+    "imageUrl": "https://www.kirby.jp/25th/cms/wp-content/themes/kirby-v2/character/imgs/chara-about-kirby.png",
+    "originalDimensions": [
+      634,
+      648
+    ],
+    "answerCropPixels": [
+      0,
+      0,
+      634,
+      648
+    ],
+    "image": "assets/characters/C072.jpg",
+    "rawSHA256": "bf86f0034e4543f8b5209d4fadd5b49075410c49f6a9d886fa12f3d070d5f8e3",
+    "answerSHA256": "e70b869d155bc8206e7d149b8163cd92c4048750de762938f29b421739af485a",
+    "quizID": "I28",
+    "guessFile": "assets/images/I28_guess.jpg",
+    "guessCropPixels": [
+      6,
+      415,
+      602,
+      635
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "红色脚与星星",
+    "guessSHA256": "af9ba5d252b9d0cca54a936795ad2af3cf104023f9a3a488302c5277ad274ca2"
+  },
+  {
+    "key": "C073",
+    "name": "索尼克",
+    "source": "索尼克",
+    "sourcePage": "https://sonic.sega.jp/SonicChannel/character/sonic.html",
+    "imageUrl": "https://sonic.sega.jp/SonicChannel/upload_images/character-sonic.jpg",
+    "originalDimensions": [
+      1200,
+      630
+    ],
+    "answerCropPixels": [
+      745,
+      0,
+      1200,
+      630
+    ],
+    "image": "assets/characters/C073.jpg",
+    "rawSHA256": "e8fbfe1530684d67aabb0ccaeeee9aae28c1a85c11ace76f0c9a906b7d235ed8",
+    "answerSHA256": "1eaaf39682c5ae796c9080111f19c1428fcfd24e8d538ce8f9fa78436cabb8ce",
+    "quizID": "I29",
+    "guessFile": "assets/images/I29_guess.jpg",
+    "guessCropPixels": [
+      5,
+      460,
+      428,
+      630
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "红色鞋子",
+    "guessSHA256": "0dec41e4910767c1637924c8857646229b1498d99b2ccc7124e06143cc607b74"
+  },
+  {
+    "key": "C074",
+    "name": "医生",
+    "source": "第五人格",
+    "sourcePage": "https://wiki.biligame.com/dwrg/%E5%8C%BB%E7%94%9F",
+    "imageUrl": "https://patchwiki.biligame.com/images/dwrg/d/db/axt765jd7wtywdr316xc4ta3xfri3op.png",
+    "originalDimensions": [
+      810,
+      1080
+    ],
+    "answerCropPixels": [
+      275,
+      126,
+      535,
+      882
+    ],
+    "image": "assets/characters/C074.jpg",
+    "rawSHA256": "74987edf3c6a07bb9babf9e2ed5156b996c7290a22007501e2f6b247a5114f4b",
+    "answerSHA256": "67d0d62c58dcb0c99690bddf28c8c6c2f52d25948180bcb08d149b304fc43487"
+  },
+  {
+    "key": "C075",
+    "name": "卡芙卡",
+    "source": "崩坏：星穹铁道",
+    "sourcePage": "https://wiki.biligame.com/sr/%E5%8D%A1%E8%8A%99%E5%8D%A1",
+    "imageUrl": "https://patchwiki.biligame.com/images/sr/4/40/ohzhieftz25z05ftzetqds1km8cph4x.png",
+    "originalDimensions": [
+      2048,
+      2048
+    ],
+    "answerCropPixels": [
+      0,
+      0,
+      2048,
+      2048
+    ],
+    "image": "assets/characters/C075.jpg",
+    "rawSHA256": "c1208b3d4d1248d100a5bcd7c45261d853d12d449bd63f7d24e4c4f7381c934f",
+    "answerSHA256": "ae1f362180325939bb420e3c365a5b3e6f9b8e1e462e8b5a61f41a9ce0d16c84",
+    "quizID": "I36",
+    "guessFile": "assets/images/I36_guess.jpg",
+    "guessCropPixels": [
+      22,
+      0,
+      880,
+      319
+    ],
+    "guessCropBasis": "processed answer image",
+    "guessDetail": "伞与场景",
+    "guessSHA256": "e9af67e753eb28096d700fbcabb4813d9f6b5344dae46f26fdda65a5927de502"
+  },
+  {
+    "key": "C076",
+    "name": "流萤",
+    "source": "崩坏：星穹铁道",
+    "sourcePage": "https://wiki.biligame.com/sr/%E6%B5%81%E8%90%A4",
+    "imageUrl": "https://patchwiki.biligame.com/images/sr/d/d3/k7g0ja362py1shisgib2uxl5s5kzbfw.png",
+    "originalDimensions": [
+      2048,
+      2048
+    ],
+    "answerCropPixels": [
+      0,
+      0,
+      2048,
+      2048
+    ],
+    "image": "assets/characters/C076.jpg",
+    "rawSHA256": "5c10c4d5f8f6b37846d03b9d678363005f92da7700d90567460422d2f64e04b9",
+    "answerSHA256": "f55249928c3b10dbc998543226724fc6f7fc8089f10b450d06eb305292c421c1"
+  },
+  {
+    "key": "C077",
+    "name": "贝姬",
+    "source": "间谍过家家",
+    "sourcePage": "https://spy-family.net/tvseries/",
+    "imageUrl": "https://spy-family.net/tvseries/assets/img/top/chara_becky.png",
+    "originalDimensions": [
+      1500,
+      1240
+    ],
+    "answerCropPixels": [
+      606,
+      316,
+      851,
+      892
+    ],
+    "image": "assets/characters/C077.jpg",
+    "rawSHA256": "4ded82e4a6c003b4b4b32086edf88b6e354a7eef3454aef680454823a5e7feb2",
+    "answerSHA256": "3ff20aa775970f1bf3f8ca5516449dd4454096cea0c6b8a4922eda517282ccc6"
+  },
+  {
+    "key": "C078",
+    "name": "达米安",
+    "source": "间谍过家家",
+    "sourcePage": "https://spy-family.net/tvseries/",
+    "imageUrl": "https://spy-family.net/tvseries/assets/img/top/chara_damian.png",
+    "originalDimensions": [
+      1500,
+      1240
+    ],
+    "answerCropPixels": [
+      658,
+      292,
+      831,
+      895
+    ],
+    "image": "assets/characters/C078.jpg",
+    "rawSHA256": "dfe3b87d2866ff8fe3bea71bcb1ed9076cb878ba7d4ec4503cabe7456f0f6ae7",
+    "answerSHA256": "1738abda4a63064dacfa7a41bd4bb90a3127c4a45d4c705efb3cc8427ba8c4c3"
+  },
+  {
+    "key": "C079",
+    "name": "先知",
+    "source": "第五人格",
+    "sourcePage": "https://wiki.biligame.com/dwrg/%E5%85%88%E7%9F%A5",
+    "imageUrl": "https://patchwiki.biligame.com/images/dwrg/2/23/psh5intt7havuywhcd5raul3vso363b.png",
+    "originalDimensions": [
+      810,
+      1080
+    ],
+    "answerCropPixels": [
+      259,
+      136,
+      598,
+      895
+    ],
+    "image": "assets/characters/C079.jpg",
+    "rawSHA256": "9d80f5c34ca857ec3784c227382e864f825ed8b2e39540e73f36721d48d438fb",
+    "answerSHA256": "6ff0f70d230e38bad37db82c89cb9e4198474a46906535dde1fbdeb2a8ab7518"
+  },
+  {
+    "key": "C080",
+    "name": "摄影师",
+    "source": "第五人格",
+    "sourcePage": "https://wiki.biligame.com/dwrg/%E6%91%84%E5%BD%B1%E5%B8%88",
+    "imageUrl": "https://patchwiki.biligame.com/images/dwrg/2/2a/68mdgot4z1xkohgn6xn44c6d0akdd4j.png",
+    "originalDimensions": [
+      810,
+      1080
+    ],
+    "answerCropPixels": [
+      181,
+      134,
+      630,
+      886
+    ],
+    "image": "assets/characters/C080.jpg",
+    "rawSHA256": "423722f34147a32f76ebe3ab0fd670e5e4350a775d73cef4e3b3c9ca99956a0d",
+    "answerSHA256": "781b84249b299cf84a78a4cd6a31032acebd892e402c227f5b891b8f95796a8a"
+  },
+  {
+    "key": "C081",
+    "name": "佣兵",
+    "source": "第五人格",
+    "sourcePage": "https://wiki.biligame.com/dwrg/%E4%BD%A3%E5%85%B5",
+    "imageUrl": "https://patchwiki.biligame.com/images/dwrg/2/2b/sg7fqtvlp8jza3ryyabwrcqcbkmxorw.png",
+    "originalDimensions": [
+      810,
+      1080
+    ],
+    "answerCropPixels": [
+      237,
+      150,
+      579,
+      887
+    ],
+    "image": "assets/characters/C081.jpg",
+    "rawSHA256": "f3c5ca06accc80a84258d1016c7bbbf6c2e3d3fd8ae023f72e9bbefe19e92871",
+    "answerSHA256": "c40617e0ea251e0702dfbd83ab7ceb6d51d684f3cd8129abb41c7e999008ce66"
+  },
+  {
+    "key": "C082",
+    "name": "开拓者",
+    "source": "崩坏：星穹铁道",
+    "sourcePage": "https://wiki.biligame.com/sr/%E5%BC%80%E6%8B%93%E8%80%85%E2%80%A2%E6%AF%81%E7%81%AD",
+    "imageUrl": "https://patchwiki.biligame.com/images/sr/c/c4/2dishd6nydg68hp6ay0wjtpgjgjbmfz.png",
+    "originalDimensions": [
+      2048,
+      2048
+    ],
+    "answerCropPixels": [
+      81,
+      23,
+      1967,
+      2020
+    ],
+    "image": "assets/characters/C082.jpg",
+    "rawSHA256": "0dd752bceb4aed39da08cf4d0b3c83d4403e886b0fc074f4231edff7e70bc2d2",
+    "answerSHA256": "5b6f604814b6c469ca5ea7d62933a00937bde9e681ff669bb137a27d8d151d2f"
+  },
+  {
+    "key": "C083",
+    "name": "星见雅",
+    "source": "绝区零",
+    "sourcePage": "https://www.miyoushe.com/ys/article/55043616",
+    "imageUrl": "https://upload-bbs.miyoushe.com/upload/2024/11/08/293053329/e92c157967886ae0a3f3e7de8c467157_7600543045147786220.png",
+    "originalDimensions": [
+      1440,
+      1865
+    ],
+    "answerCropPixels": [
+      0,
+      0,
+      1440,
+      1865
+    ],
+    "image": "assets/characters/C083.jpg",
+    "rawSHA256": "f1f1aa720c0f1f9ab3965aef0232ddaad60468dca43c05cf6b2ae815c197dc05",
+    "answerSHA256": "7c94d6bc62f011cfe20640bca13496c4c801998d92f4f270aee6a57a1fa48680"
+  }
+]
